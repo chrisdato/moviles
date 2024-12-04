@@ -13,3 +13,6 @@
 
 ## Lanzar cambios a remoto
 - git push -u origin main
+
+## comando para retornar el último log o commit
+- git restore .
