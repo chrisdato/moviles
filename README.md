@@ -7,3 +7,9 @@
 
 - 2. guardar todo de forma inmediata
 - git add .
+
+## Agregar commit --> comentarios
+-git commit -m "Comentario commit"
+
+## Lanzar cambios a remoto
+- git push -u origin main
